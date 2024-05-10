@@ -45,7 +45,7 @@ The project utilizes various data visualization tools and techniques, such as ba
 Repository Structure
 The repository is organized as follows:
 
-data/: Contains the raw and cleaned datasets used in the analysis.
+data - please refer https://drive.google.com/drive/folders/17oAzLJ2z3q4sTN_n_TrpPNZlgN8bA5hN?usp=sharing. for the datasets
 Scripts: Contains the Lambda function code for the ETL process, SQL and notebooks.
 visualizations/: Contains the generated visualizations.
 reports/: Includes the final report and presentation summarizing the project findings and recommendations.
@@ -67,7 +67,7 @@ Usage
 To reproduce the analysis and generate the visualizations:
 
 Clone the repository: git clone https://github.com/LokeshDondapati/Crashdata-IA.git
-Install the required dependencies: pip install -r requirements.txt
+Install the required dependencies
 Set up the AWS Lambda functions and configure the necessary AWS permissions and triggers.
 Run the Jupyter notebooks in the notebooks/ directory to execute the data cleaning, analysis, and visualization code.
 Explore the generated visualizations in the visualizations/ directory.
@@ -76,5 +76,3 @@ Review the final report and presentation in the reports/ directory for a summary
 Contributions
 Contributions to this project are Goutham, Lokesh, Mridul, Akshit, Heny and ashritha. If you have any suggestions, improvements, or additional analyses to propose, please submit a pull request or open an issue on the repository.
 
-Contact
-For any questions or inquiries, please contact gvemula@mail.yu.edu.
