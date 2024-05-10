@@ -1,4 +1,4 @@
-# Crashdataanalysis-IA
+# Crash_Data_Analysis-IA
 
 Motor Vehicle Collisions Analysis in New York City
 This project focuses on analyzing motor vehicle collisions in New York City using data provided by the New York City Police Department (NYPD). The goal is to gain insights into collision patterns, identify risk factors, and develop strategies to improve road safety and reduce the occurrence and impact of collisions.
